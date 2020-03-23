@@ -15,7 +15,7 @@ h3 {
 
   color: #E83C38;
 
-  font-family: 'IBM Plex Sans', sans-serif;
+  font-family: 'Manrope-Medium', sans-serif;
   font-size: 1.2vw;
   font-weight: 700;
 }
@@ -28,7 +28,7 @@ h1 {
 
   color: #0B004C;
 
-  font-family: 'IBM Plex Sans', sans-serif;
+  font-family: 'Manrope-Medium', sans-serif;
   font-size: 3vw;
   font-weight: 700;
   line-height: 4vw;
@@ -40,7 +40,7 @@ h1 {
 
   color: #0B004C;
 
-  font-family: 'IBM Plex Sans', sans-serif;
+  font-family: 'Manrope-Medium', sans-serif;
   font-size: 1.5vw;
   font-weight: 300;
   line-height: 1.9vw;
@@ -243,4 +243,12 @@ h2 {
   font-family: 'IBM Plex Sans', sans-serif;
   font-size: 1vw;
   line-height: 3.3vw;
+}
+
+@font-face {
+font-family: "Manrope-Medium";
+// адрес шрифта и тип
+src: url("../fonts/Manrope-Medium.ttf") format("truetype");
+/* font-style: normal;
+font-weight: normal; */
 }
